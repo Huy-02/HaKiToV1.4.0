@@ -14,9 +14,9 @@ git pull
 python setup.py
 python3 main_new_v4.py
 ```
-# Username Lấy Tại
+# Username
 ```sh
-https://viduchung.blogspot.com/p/username.html
+2006
 ```
 # Group Telegram
 ```sh
