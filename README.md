@@ -8,7 +8,7 @@ Update Ua
 Không Được DDoS Website Chính Phủ<p align="center"><img src="https://i.imgur.com/kaQdEUB.jpg" width="300" height="250" alt="Script Tool"></p> 
 # Setup and Run
 ```sh
-git clone https://github.com/ViDucHung2006/HaKiToV1.4.0
+git clone https://github.com/Huy-02/HaKiToV1.4.0.git
 cd HaKiToV1.4.0
 git pull
 python setup.py
